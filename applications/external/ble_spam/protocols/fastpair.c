@@ -16,6 +16,8 @@ const struct {
     {0x92BBBD, "Pixel Buds"},
     {0xD446A7, "Sony XM5"},
     {0x2D7A23, "Sony WF-1000XM4"},
+    {0x72EF8D, "Razer Hammerhead TWS X"}, // Discovered  by @DiamondRoPlayz
+    {0x0E30C3, "Razer Hammerhead TWS"}, // Discovered  by @DiamondRoPlayz
 
     // Custom debug popups
     {0xD99CA1, "Flipper Zero"},
